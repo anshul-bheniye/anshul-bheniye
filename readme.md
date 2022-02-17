@@ -1,7 +1,7 @@
  <h1 align="center">👋 Hi, I’m Anshul Bheniye</h1>
  <hr>
  <h2 align="center">👀 I Spend Most Of My Time On <code>MDN</code> Learning New Things.</h2>
- <h2 align="center">🌱 I’m Currently Learning Full Stack Web Development.</h2>
+ <h2 align="center">🌱 I’m Currently Learning Web Development From Tanay Bhaiya, NeoG Camp</h2>
  <h2 align="center">💞️ I’m Looking To Collaborate With Other Developers.</h2>
  <hr>
  <h3 align="center">🕵🏽 You Can Find Me On</h3>
