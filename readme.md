@@ -3,9 +3,10 @@
 
 <p align="left"> <a href="https://twitter.com/anshul_bheniye" target="blank"><img src="https://img.shields.io/twitter/follow/anshul_bheniye?logo=twitter&style=for-the-badge" alt="anshul_bheniye" /></a> </p>
 
-- 📝 I regularly write articles on [https://anshulbheniye.hashnode.dev/](https://anshulbheniye.hashnode.dev/)
 
-- ⚡ Fun fact **still thinking which one to type ;)**
+- 👨‍💻 All of my projects are available at [here](https://anshulbheniye-reactportfolio.netlify.app/projects)
+
+- 📄 Know about my experiences [here](https://anshulbheniye-reactportfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
